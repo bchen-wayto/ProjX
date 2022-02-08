@@ -1,0 +1,3 @@
+[submodule "LibA"]
+	path = LibA
+	url = https://github.com/bchen-wayto/LibA.git
