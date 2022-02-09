@@ -1,3 +1,6 @@
 [submodule "LibA"]
 	path = LibA
 	url = https://github.com/bchen-wayto/LibA.git
+[submodule "LibB"]
+	path = LibB
+	url = https://github.com/bchen-wayto/LibB.git
